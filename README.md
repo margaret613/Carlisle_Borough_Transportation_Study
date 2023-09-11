@@ -1,6 +1,6 @@
 # Carlisle_Borough_Transportation_Study
 
-The Carlisle Borough Transportation Study is a comprehensive analysis and modeling project aimed at improving road safety and infrastructure for vulnerable road users such as cyclists and pedestrians in the Carlisle Borough area. This project employs a data-driven approach, utilizing Python for web scraping, replication techniques, and predictive modeling. Here's an overview of the key components of this study:
+The Carlisle Borough Transportation Study is a part of my ongoing data analytics internship. It is a comprehensive analysis and modeling project aimed at improving road safety and infrastructure for vulnerable road users such as cyclists and pedestrians in the Carlisle Borough area. This project employs a data-driven approach, utilizing Python for web scraping, replication techniques, and predictive modeling. Here's an overview of the key components of this study:
 
 ### Crash Data Analysis and Trends Identification
 
