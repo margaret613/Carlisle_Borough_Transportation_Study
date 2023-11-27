@@ -1,0 +1,327 @@
+﻿CODE,JURISDICTION
+0,Arlington County
+1,Accomack County
+2,Albemarle County
+3,Alleghany County
+4,Amelia County
+5,Amherst County
+6,Appomattox County
+7,Augusta County
+8,Bath County
+9,Bedford County
+10,Bland County
+11,Botetourt County
+12,Brunswick County
+13,Buchanan County
+14,Buckingham County
+15,Campbell County
+16,Caroline County
+17,Carroll County
+18,Charles City County
+19,Charlotte County
+20,Chesterfield County
+21,Clarke County
+22,Craig County
+23,Culpeper County
+24,Cumberland County
+25,Dickenson County
+26,Dinwiddie County
+28,Essex County
+29,Fairfax County
+30,Fauquier County
+31,Floyd County
+32,Fluvanna County
+33,Franklin County
+34,Frederick County
+35,Giles County
+36,Gloucester County
+37,Goochland County
+38,Grayson County
+39,Greene County
+40,Greensville County
+41,Halifax County
+42,Hanover County
+43,Henrico County
+44,Henry County
+45,Highland County
+46,Isle of Wight County
+47,James City County
+48,King George County
+49,King & Queen County
+50,King William County
+51,Lancaster County
+52,Lee County
+53,Loudoun County
+54,Louisa County
+55,Lunenburg County
+56,Madison County
+57,Mathews County
+58,Mecklenburg County
+59,Middlesex County
+60,Montgomery County
+62,Nelson County
+63,New Kent County
+65,Northampton County
+66,Northumberland County
+67,Nottoway County
+68,Orange County
+69,Page County
+70,Patrick County
+71,Pittsylvania County
+72,Powhatan County
+73,Prince Edward County
+74,Prince George County
+76,Prince William County
+77,Pulaski County
+78,Rappahannock County
+79,Rappahannock County
+80,Roanoke County
+81,Rockbridge County
+82,Rockingham County
+83,Russell County
+84,Scott County
+85,Shenandoah County
+86,Smyth County
+87,Southampton County
+88,Spotsylvania County
+89,Stafford County
+90,Surry County
+91,Sussex County
+92,Tazewell County
+93,Warren County
+95,Washington County
+96,Westmoreland County
+97,Wise County
+98,Wythe County
+99,York County
+100,City of Alexandria
+101,Town of Big Stone Gap
+102,City of Bristol
+103,City of Buena Vista
+104,City of Charlottesville
+105,Town of Clifton Forge
+106,City of Colonial Heights
+107,City of Covington
+108,City of Danville
+109,City of Emporia
+110,City of Falls Church
+111,City of Fredericksburg
+112,Town of Front Royal
+113,City of Galax
+114,City of Hampton
+115,City of Harrisonburg
+116,City of Hopewell
+117,City of Lexington
+118,City of Lynchburg
+119,Town of Marion
+120,City of Martinsville
+121,City of Newport News
+122,City of Norfolk
+123,City of Petersburg
+124,City of Portsmouth
+125,Town of Pulaski
+126,City of Radford
+127,City of Richmond
+128,City of Roanoke
+129,City of Salem
+130,Town of South Boston
+131,City of Chesapeake
+132,City of Staunton
+133,City of Suffolk
+134,City of Virginia Beach
+136,City of Waynesboro
+137,City of Williamsburg
+138,City of Winchester
+139,Town of Wytheville
+140,Town of Abingdon
+141,Town of Bedford
+142,Town of Blackstone
+143,Town of Bluefield
+144,Town of Farmville
+145,City of Franklin
+146,City of Norton
+147,City of Poquoson
+148,Town of Richlands
+149,Town of Vinton
+150,Town of Blacksburg
+151,City of Fairfax
+152,City of Manassas Park
+153,Town of Vienna
+154,Town of Christiansburg
+155,City of Manassas
+156,Town of Warrenton
+157,Town of Rocky Mount
+158,Town of Tazewell
+159,Town of Luray
+160,Town of Accomac
+161,Town of Alberta
+162,Town of Altavista
+163,Town of Amherst
+164,Town of Appalachia
+165,Town of Appomattox
+166,Town of Ashland
+167,Town of Belle Haven
+168,Town of Berryville
+169,Town of Bloxom
+170,Town of Boones Mill
+171,Town of Bowling Green
+172,Town of Boyce
+173,Town of Boydton
+174,Town of Boykins
+175,Town of Branchville
+176,Town of Bridgewater
+177,Town of Broadway
+178,Town of Brodnax
+179,Town of Brookneal
+180,Town of Buchanan
+181,Town of Burkeville
+182,Town of Cape Charles
+183,Town of Capron
+184,Town of Cedar Bluff
+185,Town of Charlotte C.H.
+186,Town of Chase City
+187,Town of Chatham
+188,Town of Cheriton
+189,Town of Chilhowie
+190,Town of Chincoteague
+191,Town of Claremont
+192,Town of Clarksville
+193,Town of Cleveland
+194,Town of Clifton
+195,Town of Clinchport
+196,Town of Clintwood
+198,Town of Coeburn
+199,Town of Colonial Beach
+200,Town of Columbia
+201,Town of Courtland
+202,Town of Craigsville
+203,Town of Crewe
+204,Town of Culpeper
+205,Town of Damascus
+206,Town of Dayton
+207,Town of Dendron
+208,Town of Dillwyn
+209,Town of Drakes Branch
+210,Town of Dublin
+211,Town of Duffield
+212,Town of Dumfries
+213,Town of Dungannon
+214,Town of Eastville
+215,Town of Edinburg
+216,Town of Elkton
+217,Town of Exmore
+218,Town of Fincastle
+219,Town of Floyd
+220,Town of Fries
+221,Town of Gate City
+222,Town of Glade Spring
+223,Town of Glasgow
+224,Town of Glen Lyn
+225,Town of Gordonsville
+226,Town of Goshen
+227,Town of Gretna
+228,Town of Grottoes
+229,Town of Grundy
+230,Town of Halifax
+231,Town of Hallwood
+232,Town of Hamilton
+233,Town of Haymarket
+234,Town of Haysi
+235,Town of Herndon
+236,Town of Hillsboro
+237,Town of Hillsville
+239,Town of Honaker
+240,Town of Independence
+241,Town of Iron Gate
+242,Town of Irvington
+243,Town of Ivor
+244,Town of Jarratt
+245,Town of Jonesville
+246,Town of Keller
+247,Town of Kenbridge
+248,Town of Keysville
+249,Town of Kilmarnock
+250,Town of LaCrosse
+251,Town of Lawrenceville
+252,Town of Lebanon
+253,Town of Leesburg
+254,Town of Louisa
+255,Town of Lovettsville
+256,Town of Madison
+257,Town of McKenney
+258,Town of Melfa
+259,Town of Middleburg
+260,Town of Middletown
+261,Town of Mineral
+262,Town of Monterey
+263,Town of Montross
+264,Town of Mount Crawford
+265,Town of Mount Jackson
+266,Town of Narrows
+267,Town of Nassawadox
+268,Town of New Castle
+269,Town of New Market
+270,Town of Newsoms
+271,Town of Nickelsville
+272,Town of Occoquan
+273,Town of Onancock
+274,Town of Onley
+275,Town of Orange
+276,Town of Painter
+277,Town of Pamplin City
+278,Town of Parksley
+279,Town of Pearisburg
+280,Town of Pembroke
+281,Town of Pennington Gap
+282,Town of Phenix
+283,Town of Pocahontas
+284,Town of Port Royal
+285,Town of Pound
+286,Town of Purcellville
+287,Town of Quantico
+288,Town of Remington
+289,Town of Rich Creek
+290,Town of Ridgeway
+291,Town of Round Hill
+292,Town of Rural Retreat
+293,Town of St. Charles
+294,Town of Saint Paul
+295,Town of Saltville
+296,Town of Saxis
+297,Town of Scottsburg
+298,Town of Scottsville
+299,Town of Shenandoah
+300,Town of Smithfield
+301,Town of South Hill
+302,Town of Stanardsville
+303,Town of Stanley
+304,Town of Stephens City
+305,Town of Stony Creek
+306,Town of Strasburg
+307,Town of Stuart
+308,Town of Surry
+309,Town of Tangier
+310,Town of Tappahannock
+311,Town of The Plains
+312,Town of Timberville
+313,Town of Toms Brook
+314,Town of Troutdale
+315,Town of Troutville
+316,Town of Urbanna
+317,Town of Victoria
+318,Town of Virgilina
+319,Town of Wachapreague
+320,Town of Wakefield
+321,Town of Warsaw
+322,Town of Washington
+323,Town of Waverly
+324,Town of Weber City
+325,Town of West Point
+327,Town of White Stone
+328,Town of Windsor
+329,Town of Wise
+330,Town of Woodstock
+331,Town of Hurt
+339,Town of Clinchco
+340,Castlewood
+999,Unknown County
