@@ -1,0 +1,30 @@
+,NAME,POPULATION,BIKE_TO_WORK_EST,BIKE_TO_WORK_MARG,WALK_TO_WORK_EST,WALK_TO_WORK_MARG,DRIVE_SOLO_TO_WORK_EST,DRIVE_SOLO_TO_WORK_MARG,CARPOOL_TO_WORK_EST,CARPOOL_TO_WORK_MARG,PUBTRANS_TO_WORK_EST,PUBTRANS_TO_WORK_MARG,state,county,county_subdivision,COUNTY_NAME,City,County,BICYCLE_BY_AUTO_COUNT,BICYCLE_DEATH_BY_AUTO_COUNT,BICYCLE_SUSP_SERIOUS_INJ_BY_AUTO_COUNT,PED_BY_AUTO_COUNT,PED_DEATH_BY_AUTO_COUNT,PED_SUSP_SERIOUS_INJ_BY_AUTO_COUNT,BNA Score
+0,"Brighton CCD, Adams County",109934,41,56,440,209,43804,1622,5040,679,842,251,8,1,90399,Adams County,brighton,adams,0.0,0.0,0.0,0.0,0.0,0.0,17
+1,"Commerce City CCD, Adams County",33395,17,30,149,80,10735,922,2272,591,338,221,8,1,90760,Adams County,commerce city,adams,4.0,2.0,2.0,3.0,2.0,1.0,14
+2,"Boulder CCD, Boulder County",123266,5247,551,5255,630,32118,1248,2904,399,3995,551,8,13,90342,Boulder County,boulder,boulder,42.0,2.0,40.0,4.0,1.0,3.0,68
+3,"Longmont CCD, Boulder County",112640,428,185,840,242,42117,1452,5111,559,1154,281,8,13,92318,Boulder County,longmont,boulder,43.0,5.0,38.0,12.0,1.0,11.0,59
+4,"Broomfield CCD, Broomfield County",72697,304,139,482,160,27371,778,2730,473,1316,291,8,14,90408,Broomfield County,broomfield,broomfield,2.0,0.0,2.0,5.0,1.0,4.0,47
+5,"Buena Vista CCD, Chaffee County",8656,0,18,54,72,2696,436,337,186,0,18,8,15,90437,Chaffee County,buena vista,chaffee,1.0,0.0,1.0,0.0,0.0,0.0,14
+6,"Salida CCD, Chaffee County",10780,150,116,357,167,3278,391,387,171,52,61,8,15,93173,Chaffee County,salida,chaffee,0.0,0.0,0.0,0.0,0.0,0.0,64
+7,"Denver CCD, Denver County",706799,7963,738,17863,1063,252765,3315,27575,1743,22085,1634,8,31,91007,Denver County,denver,denver,143.0,9.0,134.0,96.0,12.0,84.0,43
+8,"Castle Rock CCD, Douglas County",56349,32,38,601,253,21644,1237,1371,351,166,77,8,35,90513,Douglas County,castle rock,douglas,2.0,0.0,2.0,1.0,0.0,1.0,23
+9,"Parker CCD, Douglas County",138900,59,59,766,228,52902,1707,5167,617,607,183,8,35,92850,Douglas County,parker,douglas,1.0,0.0,1.0,1.0,0.0,1.0,20
+10,"Cañon City CCD, Fremont County",31462,0,27,218,120,7353,597,932,326,5,9,8,43,90494,Fremont County,cañon city,fremont,0.0,0.0,0.0,1.0,1.0,0.0,6
+11,"Central City CCD, Gilpin County",5812,0,18,56,52,2635,326,451,192,40,49,8,47,90570,Gilpin County,central city,gilpin,0.0,0.0,0.0,0.0,0.0,0.0,10
+12,"Crested Butte CCD, Gunnison County",4570,192,82,505,165,1225,221,287,132,128,90,8,51,90893,Gunnison County,crested butte,gunnison,0.0,0.0,0.0,0.0,0.0,0.0,87
+13,"Gunnison CCD, Gunnison County",11245,154,93,745,251,3641,389,996,275,440,213,8,51,91672,Gunnison County,gunnison,gunnison,0.0,0.0,0.0,0.0,0.0,0.0,33
+14,"Golden CCD, Jefferson County",37411,227,97,723,212,11967,777,1017,323,282,117,8,59,91539,Jefferson County,golden,jefferson,8.0,0.0,8.0,1.0,0.0,1.0,23
+15,"Berthoud CCD, Larimer County",16213,0,20,0,20,6933,683,654,245,11,18,8,69,90285,Larimer County,berthoud,larimer,1.0,1.0,0.0,1.0,0.0,1.0,10
+16,"Estes Park CCD, Larimer County",12589,0,20,162,138,4331,695,502,205,41,40,8,69,91235,Larimer County,estes park,larimer,2.0,1.0,1.0,0.0,0.0,0.0,25
+17,"Fort Collins CCD, Larimer County",178936,4230,550,4043,436,66012,1411,6332,709,1754,497,8,69,91330,Larimer County,fort collins,larimer,38.0,2.0,36.0,10.0,4.0,6.0,49
+18,"Loveland CCD, Larimer County",112087,193,98,717,258,43345,1758,3123,517,265,99,8,69,92337,Larimer County,loveland,larimer,11.0,1.0,10.0,3.0,2.0,1.0,29
+19,"Fruita CCD, Mesa County",25443,39,49,156,110,9400,872,759,294,0,24,8,77,91425,Mesa County,fruita,mesa,0.0,0.0,0.0,0.0,0.0,0.0,12
+20,"Grand Junction CCD, Mesa County",92219,687,352,1175,273,32421,1197,3536,624,322,185,8,77,91596,Mesa County,grand junction,mesa,21.0,0.0,21.0,5.0,1.0,4.0,12
+21,"Montrose CCD, Montrose County",33161,65,56,537,191,10972,706,1190,280,5,6,8,85,92546,Montrose County,montrose,montrose,6.0,1.0,5.0,3.0,1.0,2.0,42
+22,"Aspen CCD, Pitkin County",9835,419,190,752,227,2872,459,257,150,690,221,8,97,90171,Pitkin County,aspen,pitkin,1.0,0.0,1.0,0.0,0.0,0.0,75
+23,"Pueblo CCD, Pueblo County",117294,186,87,940,237,38319,1245,5299,572,313,120,8,101,92983,Pueblo County,pueblo,pueblo,10.0,0.0,10.0,11.0,2.0,9.0,5
+24,"Steamboat Springs CCD, Routt County",17449,516,165,353,157,6545,588,797,246,263,146,8,107,93496,Routt County,steamboat springs,routt,2.0,0.0,2.0,1.0,0.0,1.0,13
+25,"Breckenridge CCD, Summit County",18293,243,186,481,218,7009,794,568,297,1361,608,8,117,90380,Summit County,breckenridge,summit,1.0,1.0,0.0,0.0,0.0,0.0,25
+26,"Silverthorne CCD, Summit County",12749,0,20,231,143,5207,695,497,307,298,220,8,117,93287,Summit County,silverthorne,summit,0.0,0.0,0.0,0.0,0.0,0.0,28
+27,"Greeley CCD, Weld County",139299,298,117,1710,321,50548,1285,7828,808,349,156,8,123,91634,Weld County,greeley,weld,13.0,2.0,11.0,3.0,0.0,3.0,10
+28,"Windsor CCD, Weld County",34197,19,17,353,196,13786,676,1454,333,0,27,8,123,93895,Weld County,windsor,weld,0.0,0.0,0.0,0.0,0.0,0.0,24
