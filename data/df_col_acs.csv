@@ -38,90 +38,91 @@
 36,"Agate CCD, Elbert County",584,0,13,0,13,191,121,4,7,0,13,8,39,90019,Elbert County,agate,elbert,0.0,0.0,0.0,0.0,0.0,0.0
 37,"Elizabeth CCD, Elbert County",23899,0,24,151,87,9628,427,914,270,18,27,8,39,91190,Elbert County,elizabeth,elbert,0.0,0.0,0.0,0.0,0.0,0.0
 38,"Simla CCD, Elbert County",1414,0,13,0,13,468,107,65,42,0,13,8,39,93325,Elbert County,simla,elbert,0.0,0.0,0.0,0.0,0.0,0.0
-39,"Cotopaxi CCD, Fremont County",3870,4,13,15,16,1094,278,227,144,3,6,8,43,90836,Fremont County,cotopaxi,fremont,0.0,0.0,0.0,0.0,0.0,0.0
-40,"Florence CCD, Fremont County",9798,26,98,2,17,2243,316,212,84,0,18,8,43,91311,Fremont County,florence,fremont,0.0,0.0,0.0,0.0,0.0,0.0
-41,"Glenwood Springs CCD, Garfield County",27091,828,286,743,270,8848,698,2153,636,625,258,8,45,91520,Garfield County,glenwood springs,garfield,1.0,1.0,0.0,0.0,0.0,0.0
-42,"New Castle CCD, Garfield County",12237,0,20,100,73,4674,509,865,235,177,100,8,45,92603,Garfield County,new castle,garfield,0.0,0.0,0.0,0.0,0.0,0.0
-43,"Rifle CCD, Garfield County",14653,51,47,32,43,5925,555,1285,470,72,100,8,45,93097,Garfield County,rifle,garfield,0.0,0.0,0.0,1.0,0.0,1.0
-44,"Central City CCD, Gilpin County",5812,0,18,56,52,2635,326,451,192,40,49,8,47,90570,Gilpin County,central city,gilpin,0.0,0.0,0.0,0.0,0.0,0.0
-45,"Granby CCD, Grand County",11771,100,68,420,175,4334,490,325,185,419,254,8,49,91577,Grand County,granby,grand,0.0,0.0,0.0,0.0,0.0,0.0
-46,"Kremmling CCD, Grand County",3858,0,13,89,49,1367,278,181,105,0,13,8,49,92033,Grand County,kremmling,grand,0.0,0.0,0.0,0.0,0.0,0.0
-47,"Crested Butte CCD, Gunnison County",4570,192,82,505,165,1225,221,287,132,128,90,8,51,90893,Gunnison County,crested butte,gunnison,0.0,0.0,0.0,0.0,0.0,0.0
-48,"Gunnison CCD, Gunnison County",11245,154,93,745,251,3641,389,996,275,440,213,8,51,91672,Gunnison County,gunnison,gunnison,0.0,0.0,0.0,0.0,0.0,0.0
-49,"Lake City CCD, Hinsdale County",858,0,13,98,35,199,57,32,27,0,13,8,53,92109,Hinsdale County,lake city,hinsdale,0.0,0.0,0.0,0.0,0.0,0.0
-50,"Gardner CCD, Huerfano County",241,0,13,0,13,102,80,0,13,0,13,8,55,91444,Huerfano County,gardner,huerfano,0.0,0.0,0.0,0.0,0.0,0.0
-51,"La Veta CCD, Huerfano County",1875,0,13,15,19,474,153,31,28,0,13,8,55,92204,Huerfano County,la veta,huerfano,0.0,0.0,0.0,0.0,0.0,0.0
-52,"Walsenburg CCD, Huerfano County",4671,0,13,83,68,1130,254,131,91,6,15,8,55,93743,Huerfano County,walsenburg,huerfano,0.0,0.0,0.0,0.0,0.0,0.0
-53,"Walden CCD, Jackson County",1375,21,33,99,57,352,90,30,23,0,13,8,57,93724,Jackson County,walden,jackson,0.0,0.0,0.0,0.0,0.0,0.0
-54,"Golden CCD, Jefferson County",37411,227,97,723,212,11967,777,1017,323,282,117,8,59,91539,Jefferson County,golden,jefferson,8.0,0.0,8.0,1.0,0.0,1.0
-55,"Eads CCD, Kiowa County",978,0,13,32,26,383,87,47,31,0,13,8,61,91121,Kiowa County,eads,kiowa,0.0,0.0,0.0,0.0,0.0,0.0
-56,"Haswell CCD, Kiowa County",105,0,13,0,13,37,15,0,13,0,13,8,61,91691,Kiowa County,haswell,kiowa,0.0,0.0,0.0,0.0,0.0,0.0
-57,"Sheridan Lake CCD, Kiowa County",331,0,13,13,9,113,37,6,9,0,13,8,61,93268,Kiowa County,sheridan lake,kiowa,0.0,0.0,0.0,0.0,0.0,0.0
-58,"Leadville CCD, Lake County",6149,199,138,206,131,2327,368,582,218,0,18,8,65,92223,Lake County,leadville,lake,0.0,0.0,0.0,0.0,0.0,0.0
-59,"Berthoud CCD, Larimer County",16213,0,20,0,20,6933,683,654,245,11,18,8,69,90285,Larimer County,berthoud,larimer,1.0,1.0,0.0,1.0,0.0,1.0
-60,"Estes Park CCD, Larimer County",12589,0,20,162,138,4331,695,502,205,41,40,8,69,91235,Larimer County,estes park,larimer,2.0,1.0,1.0,0.0,0.0,0.0
-61,"Fort Collins CCD, Larimer County",178936,4230,550,4043,436,66012,1411,6332,709,1754,497,8,69,91330,Larimer County,fort collins,larimer,38.0,2.0,36.0,10.0,4.0,6.0
-62,"Livermore CCD, Larimer County",4569,36,19,89,79,1220,299,100,57,0,13,8,69,92299,Larimer County,livermore,larimer,0.0,0.0,0.0,0.0,0.0,0.0
-63,"Loveland CCD, Larimer County",112087,193,98,717,258,43345,1758,3123,517,265,99,8,69,92337,Larimer County,loveland,larimer,11.0,1.0,10.0,3.0,2.0,1.0
-64,"Arriba CCD, Lincoln County",487,0,13,2,2,88,35,31,21,0,13,8,73,90133,Lincoln County,arriba,lincoln,0.0,0.0,0.0,0.0,0.0,0.0
-65,"Hugo CCD, Lincoln County",1270,0,13,34,21,390,79,62,30,0,13,8,73,91824,Lincoln County,hugo,lincoln,0.0,0.0,0.0,0.0,0.0,0.0
-66,"Limon CCD, Lincoln County",3340,2,5,29,31,764,157,60,46,0,13,8,73,92261,Lincoln County,limon,lincoln,0.0,0.0,0.0,0.0,0.0,0.0
-67,"Fleming CCD, Logan County",2400,0,13,9,6,751,170,178,73,3,5,8,75,91292,Logan County,fleming,logan,0.0,0.0,0.0,0.0,0.0,0.0
-68,"Merino CCD, Logan County",1241,0,13,10,9,594,175,27,26,0,13,8,75,92470,Logan County,merino,logan,0.0,0.0,0.0,0.0,0.0,0.0
-69,"Peetz CCD, Logan County",465,0,13,11,10,152,47,20,13,0,13,8,75,92869,Logan County,peetz,logan,0.0,0.0,0.0,0.0,0.0,0.0
-70,"Sterling CCD, Logan County",17207,20,24,119,83,6453,492,1039,305,271,256,8,75,93515,Logan County,sterling,logan,3.0,1.0,2.0,2.0,0.0,2.0
-71,"Clifton CCD, Mesa County",29043,34,36,333,267,9868,933,883,214,149,101,8,77,90665,Mesa County,clifton,mesa,0.0,0.0,0.0,0.0,0.0,0.0
-72,"Collbran CCD, Mesa County",2054,3,5,107,227,572,113,66,32,7,17,8,77,90703,Mesa County,collbran,mesa,0.0,0.0,0.0,0.0,0.0,0.0
-73,"De Beque CCD, Mesa County",1025,0,13,13,11,302,58,36,28,0,13,8,77,90950,Mesa County,de beque,mesa,0.0,0.0,0.0,0.0,0.0,0.0
-74,"Fruita CCD, Mesa County",25443,39,49,156,110,9400,872,759,294,0,24,8,77,91425,Mesa County,fruita,mesa,0.0,0.0,0.0,0.0,0.0,0.0
-75,"Grand Junction CCD, Mesa County",92219,687,352,1175,273,32421,1197,3536,624,322,185,8,77,91596,Mesa County,grand junction,mesa,21.0,0.0,21.0,5.0,1.0,4.0
-76,"Craig CCD, Moffat County",12827,9,15,102,72,4296,385,1137,233,67,77,8,81,90855,Moffat County,craig,moffat,0.0,0.0,0.0,0.0,0.0,0.0
-77,"Dinosaur CCD, Moffat County",290,0,13,0,13,135,64,14,18,0,13,8,81,91017,Moffat County,dinosaur,moffat,0.0,0.0,0.0,0.0,0.0,0.0
-78,"Cortez CCD, Montezuma County",16811,116,142,156,113,5451,538,527,197,4,5,8,83,90817,Montezuma County,cortez,montezuma,0.0,0.0,0.0,1.0,0.0,1.0
-79,"Dolores CCD, Montezuma County",3482,0,13,164,156,1148,251,106,78,2,4,8,83,91045,Montezuma County,dolores,montezuma,0.0,0.0,0.0,0.0,0.0,0.0
-80,"Mancos CCD, Montezuma County",3162,19,25,51,35,1132,231,153,86,0,13,8,83,92394,Montezuma County,mancos,montezuma,0.0,0.0,0.0,0.0,0.0,0.0
-81,"Montrose CCD, Montrose County",33161,65,56,537,191,10972,706,1190,280,5,6,8,85,92546,Montrose County,montrose,montrose,6.0,1.0,5.0,3.0,1.0,2.0
-82,"Nucla CCD, Montrose County",2199,0,13,9,11,626,124,121,61,9,13,8,85,92698,Montrose County,nucla,montrose,0.0,0.0,0.0,0.0,0.0,0.0
-83,"Olathe CCD, Montrose County",6968,0,18,7,13,2074,321,590,215,7,12,8,85,92736,Montrose County,olathe,montrose,0.0,0.0,0.0,0.0,0.0,0.0
-84,"Brush CCD, Morgan County",7716,0,18,141,87,2783,304,347,162,0,18,8,87,90418,Morgan County,brush,morgan,0.0,0.0,0.0,0.0,0.0,0.0
-85,"Fort Morgan CCD, Morgan County",17002,5,12,57,38,5793,461,1410,333,10,17,8,87,91368,Morgan County,fort morgan,morgan,0.0,0.0,0.0,0.0,0.0,0.0
-86,"Wiggins CCD, Morgan County",3317,0,13,1,3,1049,152,150,64,0,13,8,87,93876,Morgan County,wiggins,morgan,0.0,0.0,0.0,0.0,0.0,0.0
-87,"Cheraw CCD, Otero County",1719,0,13,15,12,573,129,82,42,0,13,8,89,90608,Otero County,cheraw,otero,0.0,0.0,0.0,0.0,0.0,0.0
-88,"Fowler CCD, Otero County",1493,7,11,38,26,488,100,43,30,0,13,8,89,91406,Otero County,fowler,otero,0.0,0.0,0.0,0.0,0.0,0.0
-89,"La Junta CCD, Otero County",8992,0,18,91,94,2669,343,491,209,0,18,8,89,92090,Otero County,la junta,otero,0.0,0.0,0.0,0.0,0.0,0.0
-90,"Manzanola CCD, Otero County",1100,0,13,2,3,316,80,36,17,7,7,8,89,92413,Otero County,manzanola,otero,0.0,0.0,0.0,0.0,0.0,0.0
-91,"Rocky Ford CCD, Otero County",5120,0,18,25,35,1286,206,256,111,0,18,8,89,93116,Otero County,rocky ford,otero,0.0,0.0,0.0,0.0,0.0,0.0
-92,"Ouray CCD, Ouray County",4850,9,11,158,65,1361,185,266,98,0,13,8,91,92793,Ouray County,ouray,ouray,0.0,0.0,0.0,0.0,0.0,0.0
-93,"Fairplay CCD, Park County",14615,0,20,98,63,5477,377,739,259,57,54,8,93,91254,Park County,fairplay,park,0.0,0.0,0.0,0.0,0.0,0.0
-94,"Lake George CCD, Park County",2769,0,13,20,29,752,229,143,160,0,13,8,93,92128,Park County,lake george,park,0.0,0.0,0.0,0.0,0.0,0.0
-95,"Haxtun CCD, Phillips County",1348,0,13,31,22,479,99,18,12,0,13,8,95,91710,Phillips County,haxtun,phillips,0.0,0.0,0.0,0.0,0.0,0.0
-96,"Holyoke CCD, Phillips County",3149,0,13,12,15,996,168,259,120,0,13,8,95,91767,Phillips County,holyoke,phillips,0.0,0.0,0.0,0.0,0.0,0.0
-97,"Aspen CCD, Pitkin County",9835,419,190,752,227,2872,459,257,150,690,221,8,97,90171,Pitkin County,aspen,pitkin,1.0,0.0,1.0,0.0,0.0,0.0
-98,"Snowmass Village CCD, Pitkin County",7636,6,11,177,199,2588,641,86,65,1407,608,8,97,93344,Pitkin County,snowmass village,pitkin,0.0,0.0,0.0,0.0,0.0,0.0
-99,"Granada CCD, Prowers County",963,0,13,2,4,357,101,36,20,0,13,8,99,91558,Prowers County,granada,prowers,0.0,0.0,0.0,0.0,0.0,0.0
-100,"Lamar CCD, Prowers County",9613,0,18,28,25,3711,287,203,99,3,7,8,99,92147,Prowers County,lamar,prowers,3.0,1.0,2.0,0.0,0.0,0.0
-101,"Avondale CCD, Pueblo County",2542,0,13,13,22,1093,259,60,49,0,13,8,101,90209,Pueblo County,avondale,pueblo,0.0,0.0,0.0,0.0,0.0,0.0
-102,"Pueblo CCD, Pueblo County",117294,186,87,940,237,38319,1245,5299,572,313,120,8,101,92983,Pueblo County,pueblo,pueblo,10.0,0.0,10.0,11.0,2.0,9.0
-103,"Pueblo West CCD, Pueblo County",33097,27,41,15,22,12179,717,1462,214,37,53,8,101,93002,Pueblo County,pueblo west,pueblo,2.0,0.0,2.0,1.0,0.0,1.0
-104,"Hayden CCD, Routt County",3227,14,16,113,84,1391,274,109,69,14,19,8,107,91729,Routt County,hayden,routt,0.0,0.0,0.0,0.0,0.0,0.0
-105,"Oak Creek CCD, Routt County",3532,0,13,28,24,1478,210,144,67,0,13,8,107,92717,Routt County,oak creek,routt,0.0,0.0,0.0,0.0,0.0,0.0
-106,"Steamboat Springs CCD, Routt County",17449,516,165,353,157,6545,588,797,246,263,146,8,107,93496,Routt County,steamboat springs,routt,2.0,0.0,2.0,1.0,0.0,1.0
-107,"Yampa CCD, Routt County",691,0,13,19,18,246,110,24,24,0,13,8,107,93933,Routt County,yampa,routt,0.0,0.0,0.0,0.0,0.0,0.0
-108,"Center CCD, Saguache County",3127,0,13,28,39,1037,158,252,112,0,13,8,109,90551,Saguache County,center,saguache,0.0,0.0,0.0,0.0,0.0,0.0
-109,"Saguache CCD, Saguache County",3106,9,15,122,63,674,140,27,19,0,13,8,109,93135,Saguache County,saguache,saguache,0.0,0.0,0.0,0.0,0.0,0.0
-110,"Julesburg CCD, Sedgwick County",1968,6,8,63,32,608,107,88,36,0,13,8,115,91900,Sedgwick County,julesburg,sedgwick,0.0,0.0,0.0,0.0,0.0,0.0
-111,"Breckenridge CCD, Summit County",18293,243,186,481,218,7009,794,568,297,1361,608,8,117,90380,Summit County,breckenridge,summit,1.0,1.0,0.0,0.0,0.0,0.0
-112,"Silverthorne CCD, Summit County",12749,0,20,231,143,5207,695,497,307,298,220,8,117,93287,Summit County,silverthorne,summit,0.0,0.0,0.0,0.0,0.0,0.0
-113,"Cripple Creek CCD, Teller County",2965,0,13,82,85,1133,255,7,7,0,13,8,119,90912,Teller County,cripple creek,teller,0.0,0.0,0.0,1.0,0.0,1.0
-114,"Divide CCD, Teller County",21642,0,24,83,50,7498,514,765,240,0,24,8,119,91026,Teller County,divide,teller,0.0,0.0,0.0,0.0,0.0,0.0
-115,"Akron CCD, Washington County",2753,4,6,15,15,1007,114,82,30,0,13,8,121,90057,Washington County,akron,washington,0.0,0.0,0.0,0.0,0.0,0.0
-116,"Otis CCD, Washington County",1205,0,13,26,19,328,59,91,42,4,5,8,121,92774,Washington County,otis,washington,0.0,0.0,0.0,0.0,0.0,0.0
-117,"Ault CCD, Weld County",8276,0,18,50,55,3034,422,426,126,2,3,8,123,90190,Weld County,ault,weld,0.0,0.0,0.0,0.0,0.0,0.0
-118,"Fort Lupton CCD, Weld County",11523,0,20,271,150,4228,351,560,170,1,4,8,123,91349,Weld County,fort lupton,weld,0.0,0.0,0.0,0.0,0.0,0.0
-119,"Greeley CCD, Weld County",139299,298,117,1710,321,50548,1285,7828,808,349,156,8,123,91634,Weld County,greeley,weld,13.0,2.0,11.0,3.0,0.0,3.0
-120,"Grover CCD, Weld County",421,0,13,9,8,93,33,69,40,0,13,8,123,91653,Weld County,grover,weld,0.0,0.0,0.0,0.0,0.0,0.0
-121,"Platteville CCD, Weld County",4681,0,13,22,26,1641,261,466,168,15,24,8,123,92926,Weld County,platteville,weld,0.0,0.0,0.0,0.0,0.0,0.0
-122,"Raymer CCD, Weld County",693,0,13,6,9,258,80,38,20,0,13,8,123,93059,Weld County,raymer,weld,0.0,0.0,0.0,0.0,0.0,0.0
-123,"Windsor CCD, Weld County",34197,19,17,353,196,13786,676,1454,333,0,27,8,123,93895,Weld County,windsor,weld,0.0,0.0,0.0,0.0,0.0,0.0
-124,"Wray CCD, Yuma County",3767,0,13,100,54,1385,226,129,82,0,13,8,125,93914,Yuma County,wray,yuma,0.0,0.0,0.0,0.0,0.0,0.0
-125,"Yuma CCD, Yuma County",5140,3,4,57,56,1881,245,369,149,0,18,8,125,93952,Yuma County,yuma,yuma,0.0,0.0,0.0,0.0,0.0,0.0
+39,"Cañon City CCD, Fremont County",31462,0,27,218,120,7353,597,932,326,5,9,8,43,90494,Fremont County,cañon city,fremont,0.0,0.0,0.0,1.0,1.0,0.0
+40,"Cotopaxi CCD, Fremont County",3870,4,13,15,16,1094,278,227,144,3,6,8,43,90836,Fremont County,cotopaxi,fremont,0.0,0.0,0.0,0.0,0.0,0.0
+41,"Florence CCD, Fremont County",9798,26,98,2,17,2243,316,212,84,0,18,8,43,91311,Fremont County,florence,fremont,0.0,0.0,0.0,0.0,0.0,0.0
+42,"Glenwood Springs CCD, Garfield County",27091,828,286,743,270,8848,698,2153,636,625,258,8,45,91520,Garfield County,glenwood springs,garfield,1.0,1.0,0.0,0.0,0.0,0.0
+43,"New Castle CCD, Garfield County",12237,0,20,100,73,4674,509,865,235,177,100,8,45,92603,Garfield County,new castle,garfield,0.0,0.0,0.0,0.0,0.0,0.0
+44,"Rifle CCD, Garfield County",14653,51,47,32,43,5925,555,1285,470,72,100,8,45,93097,Garfield County,rifle,garfield,0.0,0.0,0.0,1.0,0.0,1.0
+45,"Central City CCD, Gilpin County",5812,0,18,56,52,2635,326,451,192,40,49,8,47,90570,Gilpin County,central city,gilpin,0.0,0.0,0.0,0.0,0.0,0.0
+46,"Granby CCD, Grand County",11771,100,68,420,175,4334,490,325,185,419,254,8,49,91577,Grand County,granby,grand,0.0,0.0,0.0,0.0,0.0,0.0
+47,"Kremmling CCD, Grand County",3858,0,13,89,49,1367,278,181,105,0,13,8,49,92033,Grand County,kremmling,grand,0.0,0.0,0.0,0.0,0.0,0.0
+48,"Crested Butte CCD, Gunnison County",4570,192,82,505,165,1225,221,287,132,128,90,8,51,90893,Gunnison County,crested butte,gunnison,0.0,0.0,0.0,0.0,0.0,0.0
+49,"Gunnison CCD, Gunnison County",11245,154,93,745,251,3641,389,996,275,440,213,8,51,91672,Gunnison County,gunnison,gunnison,0.0,0.0,0.0,0.0,0.0,0.0
+50,"Lake City CCD, Hinsdale County",858,0,13,98,35,199,57,32,27,0,13,8,53,92109,Hinsdale County,lake city,hinsdale,0.0,0.0,0.0,0.0,0.0,0.0
+51,"Gardner CCD, Huerfano County",241,0,13,0,13,102,80,0,13,0,13,8,55,91444,Huerfano County,gardner,huerfano,0.0,0.0,0.0,0.0,0.0,0.0
+52,"La Veta CCD, Huerfano County",1875,0,13,15,19,474,153,31,28,0,13,8,55,92204,Huerfano County,la veta,huerfano,0.0,0.0,0.0,0.0,0.0,0.0
+53,"Walsenburg CCD, Huerfano County",4671,0,13,83,68,1130,254,131,91,6,15,8,55,93743,Huerfano County,walsenburg,huerfano,0.0,0.0,0.0,0.0,0.0,0.0
+54,"Walden CCD, Jackson County",1375,21,33,99,57,352,90,30,23,0,13,8,57,93724,Jackson County,walden,jackson,0.0,0.0,0.0,0.0,0.0,0.0
+55,"Golden CCD, Jefferson County",37411,227,97,723,212,11967,777,1017,323,282,117,8,59,91539,Jefferson County,golden,jefferson,8.0,0.0,8.0,1.0,0.0,1.0
+56,"Eads CCD, Kiowa County",978,0,13,32,26,383,87,47,31,0,13,8,61,91121,Kiowa County,eads,kiowa,0.0,0.0,0.0,0.0,0.0,0.0
+57,"Haswell CCD, Kiowa County",105,0,13,0,13,37,15,0,13,0,13,8,61,91691,Kiowa County,haswell,kiowa,0.0,0.0,0.0,0.0,0.0,0.0
+58,"Sheridan Lake CCD, Kiowa County",331,0,13,13,9,113,37,6,9,0,13,8,61,93268,Kiowa County,sheridan lake,kiowa,0.0,0.0,0.0,0.0,0.0,0.0
+59,"Leadville CCD, Lake County",6149,199,138,206,131,2327,368,582,218,0,18,8,65,92223,Lake County,leadville,lake,0.0,0.0,0.0,0.0,0.0,0.0
+60,"Berthoud CCD, Larimer County",16213,0,20,0,20,6933,683,654,245,11,18,8,69,90285,Larimer County,berthoud,larimer,1.0,1.0,0.0,1.0,0.0,1.0
+61,"Estes Park CCD, Larimer County",12589,0,20,162,138,4331,695,502,205,41,40,8,69,91235,Larimer County,estes park,larimer,2.0,1.0,1.0,0.0,0.0,0.0
+62,"Fort Collins CCD, Larimer County",178936,4230,550,4043,436,66012,1411,6332,709,1754,497,8,69,91330,Larimer County,fort collins,larimer,38.0,2.0,36.0,10.0,4.0,6.0
+63,"Livermore CCD, Larimer County",4569,36,19,89,79,1220,299,100,57,0,13,8,69,92299,Larimer County,livermore,larimer,0.0,0.0,0.0,0.0,0.0,0.0
+64,"Loveland CCD, Larimer County",112087,193,98,717,258,43345,1758,3123,517,265,99,8,69,92337,Larimer County,loveland,larimer,11.0,1.0,10.0,3.0,2.0,1.0
+65,"Arriba CCD, Lincoln County",487,0,13,2,2,88,35,31,21,0,13,8,73,90133,Lincoln County,arriba,lincoln,0.0,0.0,0.0,0.0,0.0,0.0
+66,"Hugo CCD, Lincoln County",1270,0,13,34,21,390,79,62,30,0,13,8,73,91824,Lincoln County,hugo,lincoln,0.0,0.0,0.0,0.0,0.0,0.0
+67,"Limon CCD, Lincoln County",3340,2,5,29,31,764,157,60,46,0,13,8,73,92261,Lincoln County,limon,lincoln,0.0,0.0,0.0,0.0,0.0,0.0
+68,"Fleming CCD, Logan County",2400,0,13,9,6,751,170,178,73,3,5,8,75,91292,Logan County,fleming,logan,0.0,0.0,0.0,0.0,0.0,0.0
+69,"Merino CCD, Logan County",1241,0,13,10,9,594,175,27,26,0,13,8,75,92470,Logan County,merino,logan,0.0,0.0,0.0,0.0,0.0,0.0
+70,"Peetz CCD, Logan County",465,0,13,11,10,152,47,20,13,0,13,8,75,92869,Logan County,peetz,logan,0.0,0.0,0.0,0.0,0.0,0.0
+71,"Sterling CCD, Logan County",17207,20,24,119,83,6453,492,1039,305,271,256,8,75,93515,Logan County,sterling,logan,3.0,1.0,2.0,2.0,0.0,2.0
+72,"Clifton CCD, Mesa County",29043,34,36,333,267,9868,933,883,214,149,101,8,77,90665,Mesa County,clifton,mesa,0.0,0.0,0.0,0.0,0.0,0.0
+73,"Collbran CCD, Mesa County",2054,3,5,107,227,572,113,66,32,7,17,8,77,90703,Mesa County,collbran,mesa,0.0,0.0,0.0,0.0,0.0,0.0
+74,"De Beque CCD, Mesa County",1025,0,13,13,11,302,58,36,28,0,13,8,77,90950,Mesa County,de beque,mesa,0.0,0.0,0.0,0.0,0.0,0.0
+75,"Fruita CCD, Mesa County",25443,39,49,156,110,9400,872,759,294,0,24,8,77,91425,Mesa County,fruita,mesa,0.0,0.0,0.0,0.0,0.0,0.0
+76,"Grand Junction CCD, Mesa County",92219,687,352,1175,273,32421,1197,3536,624,322,185,8,77,91596,Mesa County,grand junction,mesa,21.0,0.0,21.0,5.0,1.0,4.0
+77,"Craig CCD, Moffat County",12827,9,15,102,72,4296,385,1137,233,67,77,8,81,90855,Moffat County,craig,moffat,0.0,0.0,0.0,0.0,0.0,0.0
+78,"Dinosaur CCD, Moffat County",290,0,13,0,13,135,64,14,18,0,13,8,81,91017,Moffat County,dinosaur,moffat,0.0,0.0,0.0,0.0,0.0,0.0
+79,"Cortez CCD, Montezuma County",16811,116,142,156,113,5451,538,527,197,4,5,8,83,90817,Montezuma County,cortez,montezuma,0.0,0.0,0.0,1.0,0.0,1.0
+80,"Dolores CCD, Montezuma County",3482,0,13,164,156,1148,251,106,78,2,4,8,83,91045,Montezuma County,dolores,montezuma,0.0,0.0,0.0,0.0,0.0,0.0
+81,"Mancos CCD, Montezuma County",3162,19,25,51,35,1132,231,153,86,0,13,8,83,92394,Montezuma County,mancos,montezuma,0.0,0.0,0.0,0.0,0.0,0.0
+82,"Montrose CCD, Montrose County",33161,65,56,537,191,10972,706,1190,280,5,6,8,85,92546,Montrose County,montrose,montrose,6.0,1.0,5.0,3.0,1.0,2.0
+83,"Nucla CCD, Montrose County",2199,0,13,9,11,626,124,121,61,9,13,8,85,92698,Montrose County,nucla,montrose,0.0,0.0,0.0,0.0,0.0,0.0
+84,"Olathe CCD, Montrose County",6968,0,18,7,13,2074,321,590,215,7,12,8,85,92736,Montrose County,olathe,montrose,0.0,0.0,0.0,0.0,0.0,0.0
+85,"Brush CCD, Morgan County",7716,0,18,141,87,2783,304,347,162,0,18,8,87,90418,Morgan County,brush,morgan,0.0,0.0,0.0,0.0,0.0,0.0
+86,"Fort Morgan CCD, Morgan County",17002,5,12,57,38,5793,461,1410,333,10,17,8,87,91368,Morgan County,fort morgan,morgan,0.0,0.0,0.0,0.0,0.0,0.0
+87,"Wiggins CCD, Morgan County",3317,0,13,1,3,1049,152,150,64,0,13,8,87,93876,Morgan County,wiggins,morgan,0.0,0.0,0.0,0.0,0.0,0.0
+88,"Cheraw CCD, Otero County",1719,0,13,15,12,573,129,82,42,0,13,8,89,90608,Otero County,cheraw,otero,0.0,0.0,0.0,0.0,0.0,0.0
+89,"Fowler CCD, Otero County",1493,7,11,38,26,488,100,43,30,0,13,8,89,91406,Otero County,fowler,otero,0.0,0.0,0.0,0.0,0.0,0.0
+90,"La Junta CCD, Otero County",8992,0,18,91,94,2669,343,491,209,0,18,8,89,92090,Otero County,la junta,otero,0.0,0.0,0.0,0.0,0.0,0.0
+91,"Manzanola CCD, Otero County",1100,0,13,2,3,316,80,36,17,7,7,8,89,92413,Otero County,manzanola,otero,0.0,0.0,0.0,0.0,0.0,0.0
+92,"Rocky Ford CCD, Otero County",5120,0,18,25,35,1286,206,256,111,0,18,8,89,93116,Otero County,rocky ford,otero,0.0,0.0,0.0,0.0,0.0,0.0
+93,"Ouray CCD, Ouray County",4850,9,11,158,65,1361,185,266,98,0,13,8,91,92793,Ouray County,ouray,ouray,0.0,0.0,0.0,0.0,0.0,0.0
+94,"Fairplay CCD, Park County",14615,0,20,98,63,5477,377,739,259,57,54,8,93,91254,Park County,fairplay,park,0.0,0.0,0.0,0.0,0.0,0.0
+95,"Lake George CCD, Park County",2769,0,13,20,29,752,229,143,160,0,13,8,93,92128,Park County,lake george,park,0.0,0.0,0.0,0.0,0.0,0.0
+96,"Haxtun CCD, Phillips County",1348,0,13,31,22,479,99,18,12,0,13,8,95,91710,Phillips County,haxtun,phillips,0.0,0.0,0.0,0.0,0.0,0.0
+97,"Holyoke CCD, Phillips County",3149,0,13,12,15,996,168,259,120,0,13,8,95,91767,Phillips County,holyoke,phillips,0.0,0.0,0.0,0.0,0.0,0.0
+98,"Aspen CCD, Pitkin County",9835,419,190,752,227,2872,459,257,150,690,221,8,97,90171,Pitkin County,aspen,pitkin,1.0,0.0,1.0,0.0,0.0,0.0
+99,"Snowmass Village CCD, Pitkin County",7636,6,11,177,199,2588,641,86,65,1407,608,8,97,93344,Pitkin County,snowmass village,pitkin,0.0,0.0,0.0,0.0,0.0,0.0
+100,"Granada CCD, Prowers County",963,0,13,2,4,357,101,36,20,0,13,8,99,91558,Prowers County,granada,prowers,0.0,0.0,0.0,0.0,0.0,0.0
+101,"Lamar CCD, Prowers County",9613,0,18,28,25,3711,287,203,99,3,7,8,99,92147,Prowers County,lamar,prowers,3.0,1.0,2.0,0.0,0.0,0.0
+102,"Avondale CCD, Pueblo County",2542,0,13,13,22,1093,259,60,49,0,13,8,101,90209,Pueblo County,avondale,pueblo,0.0,0.0,0.0,0.0,0.0,0.0
+103,"Pueblo CCD, Pueblo County",117294,186,87,940,237,38319,1245,5299,572,313,120,8,101,92983,Pueblo County,pueblo,pueblo,10.0,0.0,10.0,11.0,2.0,9.0
+104,"Pueblo West CCD, Pueblo County",33097,27,41,15,22,12179,717,1462,214,37,53,8,101,93002,Pueblo County,pueblo west,pueblo,2.0,0.0,2.0,1.0,0.0,1.0
+105,"Hayden CCD, Routt County",3227,14,16,113,84,1391,274,109,69,14,19,8,107,91729,Routt County,hayden,routt,0.0,0.0,0.0,0.0,0.0,0.0
+106,"Oak Creek CCD, Routt County",3532,0,13,28,24,1478,210,144,67,0,13,8,107,92717,Routt County,oak creek,routt,0.0,0.0,0.0,0.0,0.0,0.0
+107,"Steamboat Springs CCD, Routt County",17449,516,165,353,157,6545,588,797,246,263,146,8,107,93496,Routt County,steamboat springs,routt,2.0,0.0,2.0,1.0,0.0,1.0
+108,"Yampa CCD, Routt County",691,0,13,19,18,246,110,24,24,0,13,8,107,93933,Routt County,yampa,routt,0.0,0.0,0.0,0.0,0.0,0.0
+109,"Center CCD, Saguache County",3127,0,13,28,39,1037,158,252,112,0,13,8,109,90551,Saguache County,center,saguache,0.0,0.0,0.0,0.0,0.0,0.0
+110,"Saguache CCD, Saguache County",3106,9,15,122,63,674,140,27,19,0,13,8,109,93135,Saguache County,saguache,saguache,0.0,0.0,0.0,0.0,0.0,0.0
+111,"Julesburg CCD, Sedgwick County",1968,6,8,63,32,608,107,88,36,0,13,8,115,91900,Sedgwick County,julesburg,sedgwick,0.0,0.0,0.0,0.0,0.0,0.0
+112,"Breckenridge CCD, Summit County",18293,243,186,481,218,7009,794,568,297,1361,608,8,117,90380,Summit County,breckenridge,summit,1.0,1.0,0.0,0.0,0.0,0.0
+113,"Silverthorne CCD, Summit County",12749,0,20,231,143,5207,695,497,307,298,220,8,117,93287,Summit County,silverthorne,summit,0.0,0.0,0.0,0.0,0.0,0.0
+114,"Cripple Creek CCD, Teller County",2965,0,13,82,85,1133,255,7,7,0,13,8,119,90912,Teller County,cripple creek,teller,0.0,0.0,0.0,1.0,0.0,1.0
+115,"Divide CCD, Teller County",21642,0,24,83,50,7498,514,765,240,0,24,8,119,91026,Teller County,divide,teller,0.0,0.0,0.0,0.0,0.0,0.0
+116,"Akron CCD, Washington County",2753,4,6,15,15,1007,114,82,30,0,13,8,121,90057,Washington County,akron,washington,0.0,0.0,0.0,0.0,0.0,0.0
+117,"Otis CCD, Washington County",1205,0,13,26,19,328,59,91,42,4,5,8,121,92774,Washington County,otis,washington,0.0,0.0,0.0,0.0,0.0,0.0
+118,"Ault CCD, Weld County",8276,0,18,50,55,3034,422,426,126,2,3,8,123,90190,Weld County,ault,weld,0.0,0.0,0.0,0.0,0.0,0.0
+119,"Fort Lupton CCD, Weld County",11523,0,20,271,150,4228,351,560,170,1,4,8,123,91349,Weld County,fort lupton,weld,0.0,0.0,0.0,0.0,0.0,0.0
+120,"Greeley CCD, Weld County",139299,298,117,1710,321,50548,1285,7828,808,349,156,8,123,91634,Weld County,greeley,weld,13.0,2.0,11.0,3.0,0.0,3.0
+121,"Grover CCD, Weld County",421,0,13,9,8,93,33,69,40,0,13,8,123,91653,Weld County,grover,weld,0.0,0.0,0.0,0.0,0.0,0.0
+122,"Platteville CCD, Weld County",4681,0,13,22,26,1641,261,466,168,15,24,8,123,92926,Weld County,platteville,weld,0.0,0.0,0.0,0.0,0.0,0.0
+123,"Raymer CCD, Weld County",693,0,13,6,9,258,80,38,20,0,13,8,123,93059,Weld County,raymer,weld,0.0,0.0,0.0,0.0,0.0,0.0
+124,"Windsor CCD, Weld County",34197,19,17,353,196,13786,676,1454,333,0,27,8,123,93895,Weld County,windsor,weld,0.0,0.0,0.0,0.0,0.0,0.0
+125,"Wray CCD, Yuma County",3767,0,13,100,54,1385,226,129,82,0,13,8,125,93914,Yuma County,wray,yuma,0.0,0.0,0.0,0.0,0.0,0.0
+126,"Yuma CCD, Yuma County",5140,3,4,57,56,1881,245,369,149,0,18,8,125,93952,Yuma County,yuma,yuma,0.0,0.0,0.0,0.0,0.0,0.0
