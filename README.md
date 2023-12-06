@@ -12,4 +12,4 @@ We develop predictive models to see the effects of infrastructure on incident ra
 
 ### Informative Dashboard
 
-To effectively communicate our findings and recommendations, we produce an informative dashboard. These visual representations of data help educate policymakers and the public on automobile safety issues, enabling informed decision-making and promoting awareness. Here is the link to the [dashboard](https://public.tableau.com/app/profile/margaretnguyen/viz/SUMMARYOFAUTOMOBILEINCIDENTSINVOLVINGCYCLISTSANDPEDESTRIANSINPENNSYLVANIA2017-2021/Dashboard1)
+To effectively communicate our findings and recommendations, we produce an informative dashboard. These visual representations of data help educate policymakers and the public on automobile safety issues, enabling informed decision-making and promoting awareness. Here is the link to the [dashboard](https://public.tableau.com/app/profile/margaretnguyen/viz/SUMMARYOFAUTOMOBILEINCIDENTSINVOLVINGCYCLISTSANDPEDESTRIANSINPENNSYLVANIA2017-2021/Dashboard1).
