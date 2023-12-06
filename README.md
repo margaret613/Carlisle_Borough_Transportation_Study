@@ -10,6 +10,6 @@ We conduct in-depth analysis and modeling of crash data to identify trends and p
 
 We develop predictive models to see the effects of infrastructure on incident rates, especially among vulnerable road users such as cyclists and pedestrians. 
 
-### Informative Dashboard
+### [Informative Dashboard](https://public.tableau.com/app/profile/margaretnguyen/viz/SUMMARYOFAUTOMOBILEINCIDENTSINVOLVINGCYCLISTSANDPEDESTRIANSINPENNSYLVANIA2017-2021/Dashboard1)
 
 To effectively communicate our findings and recommendations, we produce an informative dashboard. These visual representations of data help educate policymakers and the public on automobile safety issues, enabling informed decision-making and promoting awareness. Here is the link to the [dashboard](https://public.tableau.com/app/profile/margaretnguyen/viz/SUMMARYOFAUTOMOBILEINCIDENTSINVOLVINGCYCLISTSANDPEDESTRIANSINPENNSYLVANIA2017-2021/Dashboard1).
